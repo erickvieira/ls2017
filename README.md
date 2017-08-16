@@ -1,1 +1,1 @@
-ls2017
+Repositório dedicado à realização das atividades curriculares da disciplina de Leitura de Software, do curso de Engenharia de Software da UFG.
